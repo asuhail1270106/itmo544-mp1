@@ -37,6 +37,9 @@
         <section id = "classintro/repointro">
           <h2> What's in this Repository? </h2>
           <p> This repository is going to be used as the frontend for a Web Application for image storage and processing.</p>
+	  <?php
+            echo "hello world";
+          ?>
         </section>
   
         <footer id="contactinfo">
