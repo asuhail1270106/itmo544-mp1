@@ -26,9 +26,9 @@
       <header>
         <nav class="center">
           <ul id="list-nav">
-            <li><a href="index.html">Index</a></li>
-            <li><a href="resume2017.html">Gallery</a></li>
-            <li><a href="Spring2017.html">Submit</a></li>
+            <li><a href="index.php">Index</a></li>
+            <li><a href="gallery.php">Gallery</a></li>
+            <li><a href="submit.php">Submit</a></li>
           </ul>
         </nav>
       </header>
